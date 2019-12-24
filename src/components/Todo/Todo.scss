@@ -1,0 +1,13 @@
+@import '../../global/refs.scss';
+
+.todo {
+  @include flex(space-between, center);
+  width: 60vw;
+  .message {
+
+  }
+  .delete {
+
+  }
+}
+
